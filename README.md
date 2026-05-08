@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # 📬 Email Agent
 
 An AI-powered email assistant that connects to your Gmail inbox, detects new emails, and presents the **sender** and **subject** of each message — using the Gmail API and Groq's LLaMA model.
