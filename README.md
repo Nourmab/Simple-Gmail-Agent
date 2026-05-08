@@ -34,7 +34,7 @@ email-assistant/
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/your-username/email-assistant.git
+git clone  https://github.com/Nourmab/Simple-Gmail-Agent.git
 cd email-assistant
 ```
 
