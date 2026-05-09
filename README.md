@@ -131,7 +131,3 @@ token.json
 credentials.json
 .env
 ```
-=======
-# Simple-Gmail-Agent
-AI agent that detects new emails and extracts sender and subject using Gmail API and Groq LLaMA
->>>>>>> 781666b0a98f3fe5b34ae6e92b6547474212d52d
